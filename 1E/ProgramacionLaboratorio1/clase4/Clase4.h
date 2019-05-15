@@ -1,0 +1,20 @@
+int getInt(char* mensaje,
+           char* mensajeError,
+           int reintentos,
+           int maximo,
+           int minimo,
+           int* resultado);
+
+int getFloat(char* mensaje,
+           char* mensajeError,
+           int reintentos,
+           float minimo,
+           float maximo,
+           int* resultado);
+
+int getChar(char* mensaje,
+           char* mensajeError,
+           int reintentos,
+           char minimo,
+           char maximo,
+           char* resultado);

@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1529622966 source:/media/alumno/PINO/Fin de cuatrimestre/EjercicioPre2doParcialV2/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529014420 /media/alumno/PINO/Fin de cuatrimestre/EjercicioPre2doParcialV2/ArrayList.h
+
+1529623332 source:/media/alumno/PINO/Fin de cuatrimestre/EjercicioPre2doParcialV2/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+
+1529623377 /media/alumno/PINO/Fin de cuatrimestre/EjercicioPre2doParcialV2/Empleado.h
+
+1529623258 source:/media/alumno/PINO/Fin de cuatrimestre/EjercicioPre2doParcialV2/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+
+1529623278 source:/media/alumno/PINO/Fin de cuatrimestre/EjercicioPre2doParcialV2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529543258 /media/alumno/PINO/Fin de cuatrimestre/EjercicioPre2doParcialV2/Parser.h
+	"ArrayList.h"
+
+1529628466 source:/home/alumno/Escritorio/Nueva carpeta/EjercicioPre2doParcialV2/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529628466 /home/alumno/Escritorio/Nueva carpeta/EjercicioPre2doParcialV2/ArrayList.h
+
+1529629615 source:/home/alumno/Escritorio/Nueva carpeta/EjercicioPre2doParcialV2/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1529623377 /home/alumno/Escritorio/Nueva carpeta/EjercicioPre2doParcialV2/Empleado.h
+
+1529623466 source:/home/alumno/Escritorio/Nueva carpeta/EjercicioPre2doParcialV2/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+
+1529629314 source:/home/alumno/Escritorio/Nueva carpeta/EjercicioPre2doParcialV2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529543258 /home/alumno/Escritorio/Nueva carpeta/EjercicioPre2doParcialV2/Parser.h
+	"ArrayList.h"
+
+1529628466 source:d:\fin de cuatrimestre\ejerciciopre2doparcialv2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529628466 d:\fin de cuatrimestre\ejerciciopre2doparcialv2\arraylist.h
+
+1529630090 source:d:\fin de cuatrimestre\ejerciciopre2doparcialv2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1529623376 d:\fin de cuatrimestre\ejerciciopre2doparcialv2\empleado.h
+
+1529629314 source:d:\fin de cuatrimestre\ejerciciopre2doparcialv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529543258 d:\fin de cuatrimestre\ejerciciopre2doparcialv2\parser.h
+	"ArrayList.h"
+
+1529623466 source:d:\fin de cuatrimestre\ejerciciopre2doparcialv2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+

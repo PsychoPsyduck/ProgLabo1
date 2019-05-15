@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1504052008 source:e:\nico sande\c\bibliotecas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Salidas.h"
+
+1504046648 source:e:\nico sande\c\bibliotecas\salidas.c
+	"Salidas.h"
+
+1504046438 e:\nico sande\c\bibliotecas\salidas.h
+

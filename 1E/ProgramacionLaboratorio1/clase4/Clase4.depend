@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1522885275 source:d:\pino\clase3\clase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Clase4.h"
+
+1522885747 d:\pino\clase3\clase4\clase4.h
+
+1522885196 source:d:\pino\clase3\clase4\clase4.c
+	<stdio.h>
+	<stdlib.h>
+
+1522885275 source:d:\pino\clase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Clase4.h"
+
+1522885747 d:\pino\clase4\clase4.h
+

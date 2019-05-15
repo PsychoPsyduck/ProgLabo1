@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1525395078 source:e:\pino\clase12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuario.h"
+	"producto.h"
+
+1525389564 e:\pino\clase12\usuario.h
+
+1525395088 e:\pino\clase12\producto.h
+
+1525395128 source:e:\pino\clase12\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"producto.h"
+	"usuario.h"
+
+1525391852 source:e:\pino\clase12\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuario.h"
+

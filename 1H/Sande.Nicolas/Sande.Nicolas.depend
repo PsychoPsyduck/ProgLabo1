@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1505667738 source:e:\sande.nicolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1505666844 e:\sande.nicolas\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1505667708 source:e:\sande.nicolas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1505667738 source:d:\sande.nicolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1505666844 d:\sande.nicolas\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

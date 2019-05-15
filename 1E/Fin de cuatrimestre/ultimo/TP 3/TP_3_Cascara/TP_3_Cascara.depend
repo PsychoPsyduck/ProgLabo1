@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1530161406 source:c:\users\pino\desktop\tp 3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+	"ArrayList.h"
+
+1530161390 c:\users\pino\desktop\tp 3\tp_3_cascara\funciones.h
+	"ArrayList.h"
+
+1526445292 source:c:\users\pino\desktop\tp 3\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526445292 c:\users\pino\desktop\tp 3\tp_3_cascara\utn.h
+
+1530160785 source:c:\users\pino\desktop\tp 3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+	"ArrayList.h"
+
+1530162182 source:c:\users\pino\desktop\tp 3\tp_3_cascara\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530158423 c:\users\pino\desktop\tp 3\tp_3_cascara\arraylist.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523495151 source:d:\pino\clase5\lib.c
+	<stdio.h>
+	<stdlib.h>
+
+1523494830 source:d:\pino\clase5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523492714 d:\pino\clase5\lib.h
+

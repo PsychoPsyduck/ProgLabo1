@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505866748 source:c:\users\alumno\desktop\netflix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

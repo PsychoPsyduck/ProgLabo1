@@ -1,0 +1,11 @@
+#ifndef STRUCT_INCLUDED
+#define STRUCT_INCLUDED
+typedef STRUCT_INCLUDED
+{
+    int cantidad;
+    char name[50];
+    char description[50];
+    float price;
+    char categoria;
+    int id;
+}EMovie;

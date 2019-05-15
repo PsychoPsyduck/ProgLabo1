@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1524701827 source:d:\pino\clase10\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"lib.h"
+	"utn.h"
+
+1524701847 d:\pino\clase10\lib.h
+
+1524691840 d:\pino\clase10\utn.h
+
+1524691840 source:d:\pino\clase10\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524701987 source:d:\pino\clase10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"lib.h"
+	"utn.h"
+

@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1525304690 source:d:\pino\clase\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+	"Pantalla.h"
+
+1525304648 d:\pino\clase\contratacion.h
+	"pantalla.h"
+
+1525298484 d:\pino\clase\pantalla.h
+
+1524691840 d:\pino\clase\utn.h
+
+1525306312 source:d:\pino\clase\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+	"Pantalla.h"
+
+1525908129 source:d:\pino\clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pantalla.h"
+	"utn.h"
+	"Contratacion.h"
+	"informar.h"
+	"listar.h"
+
+1525305076 d:\pino\clase\informar.h
+
+1525298484 source:d:\pino\clase\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pantalla.h"
+	"utn.h"
+
+1524691840 source:d:\pino\clase\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525907653 d:\pino\clase\listar.h
+
+1525907626 source:d:\pino\clase\listar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"listar.h"
+	"pantalla.h"
+	"utn.h"
+
+1525304690 source:c:\users\pino\desktop\clase\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+	"Pantalla.h"
+
+1525304648 c:\users\pino\desktop\clase\contratacion.h
+	"pantalla.h"
+
+1525298484 c:\users\pino\desktop\clase\pantalla.h
+
+1524691840 c:\users\pino\desktop\clase\utn.h
+
+1525306312 source:c:\users\pino\desktop\clase\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+	"Pantalla.h"
+
+1525982471 source:c:\users\pino\desktop\clase\listar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Contratacion.h"
+	"listar.h"
+	"pantalla.h"
+	"utn.h"
+
+1525981505 c:\users\pino\desktop\clase\listar.h
+
+1525981511 source:c:\users\pino\desktop\clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pantalla.h"
+	"utn.h"
+	"Contratacion.h"
+	"informar.h"
+	"listar.h"
+
+1525305076 c:\users\pino\desktop\clase\informar.h
+
+1525298484 source:c:\users\pino\desktop\clase\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pantalla.h"
+	"utn.h"
+
+1524691840 source:c:\users\pino\desktop\clase\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

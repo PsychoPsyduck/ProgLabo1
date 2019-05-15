@@ -1,0 +1,267 @@
+# depslib dependency file v1.0
+1463488858 source:k:\pruebastatic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1527952730 .h"
+
+1463488500 k:\pruebastatic\arraylist.h
+
+1463505889 source:/home/mauro/Descargas/ARRAY_LIB/LINUX_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1464384471 h"
+
+1463505431 /home/mauro/Descargas/ARRAY_LIB/LINUX_64/ArrayList.h
+
+1463505760 source:/home/mauro/Descargas/ARRAY_LIB/LINUX_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1463505789 /home/mauro/Descargas/ARRAY_LIB/LINUX_64/Employee.h
+
+1464384445 source:c:\users\profesor\desktop\example4_static_lib\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1463604778 c:\users\profesor\desktop\example4_static_lib\win_64\arraylist.h
+
+1464384298 c:\users\profesor\desktop\example4_static_lib\win_64\employee.h
+
+1464384349 source:c:\users\profesor\desktop\example4_static_lib\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1464384471 source:c:\users\profesor\desktop\example4_static_lib\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1527954552 source:c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1527954156 c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\funciones.h
+
+1526500228 c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\utn.h
+
+1527954960 source:c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"parser.h"
+	"ArrayList.h"
+
+1527952730 c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1527954765 source:c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1463604778 c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\arraylist.h
+
+1526491885 source:c:\users\alumno\downloads\practica_pair_v1.3\practica_pair_v1.2\windows_32\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526491885 
+
+1527971343 source:c:\users\multitask\desktop\tp3\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1527970881 c:\users\multitask\desktop\tp3\funciones.h
+
+1526500228 c:\users\multitask\desktop\tp3\utn.h
+
+1527970213 source:c:\users\multitask\desktop\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1463604778 c:\users\multitask\desktop\tp3\arraylist.h
+
+1526491885 source:c:\users\multitask\desktop\tp3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1527974521 source:c:\users\multitask\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"parser.h"
+	"utn.h"
+	"ArrayList.h"
+
+1527952730 c:\users\multitask\desktop\tp3\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1527971343 source:c:\users\matias\desktop\tp3\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1527970881 c:\users\matias\desktop\tp3\funciones.h
+
+1526500228 c:\users\matias\desktop\tp3\utn.h
+
+1528064932 source:c:\users\matias\desktop\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1463604778 c:\users\matias\desktop\tp3\arraylist.h
+
+1526491885 source:c:\users\matias\desktop\tp3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528246442 source:c:\users\matias\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"parser.h"
+	"utn.h"
+	"ArrayList.h"
+
+1527952730 c:\users\matias\desktop\tp3\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1528935095 source:/home/alumno/Escritorio/TP3/funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1527970881 /home/alumno/Escritorio/TP3/funciones.h
+
+1526500228 /home/alumno/Escritorio/TP3/utn.h
+
+1528938147 source:/home/alumno/Escritorio/TP3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"parser.h"
+	"utn.h"
+	"ArrayList.h"
+
+1527952730 /home/alumno/Escritorio/TP3/parser.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1463604778 /home/alumno/Escritorio/TP3/ArrayList.h
+
+1528937912 source:/home/alumno/Escritorio/TP3/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1526491885 source:/home/alumno/Escritorio/TP3/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528931036 source:/home/alumno/Escritorio/TP3/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528931036 source:c:\users\pino\desktop\final\clase 13-06\tp3\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1463604778 c:\users\pino\desktop\final\clase 13-06\tp3\arraylist.h
+
+1528935095 source:c:\users\pino\desktop\final\clase 13-06\tp3\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1527970881 c:\users\pino\desktop\final\clase 13-06\tp3\funciones.h
+
+1526500228 c:\users\pino\desktop\final\clase 13-06\tp3\utn.h
+
+1528938147 source:c:\users\pino\desktop\final\clase 13-06\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"parser.h"
+	"utn.h"
+	"ArrayList.h"
+
+1527952730 c:\users\pino\desktop\final\clase 13-06\tp3\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1528937912 source:c:\users\pino\desktop\final\clase 13-06\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1526491885 source:c:\users\pino\desktop\final\clase 13-06\tp3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

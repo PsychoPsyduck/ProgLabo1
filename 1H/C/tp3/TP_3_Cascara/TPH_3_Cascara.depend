@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508803965 source:c:\users\pino\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+

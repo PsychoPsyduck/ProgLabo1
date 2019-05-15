@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1506127212 source:c:\users\alumno\desktop\netflix\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506129145 c:\users\alumno\desktop\netflix\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1506124249 source:c:\users\alumno\desktop\netflix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506129192 source:e:\nico sande\c\netflix2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506129146 e:\nico sande\c\netflix2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1506124250 source:e:\nico sande\c\netflix2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506129192 source:d:\nico sande\c\netflix2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506129146 d:\nico sande\c\netflix2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1506124250 source:d:\nico sande\c\netflix2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+

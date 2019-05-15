@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528936039 source:/home/alumno/Escritorio/probar arraylist propio/proyecto/main.c
+	<stdio.h>
+	<stdlib.h>
+

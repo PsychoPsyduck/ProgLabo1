@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526424454 source:d:\punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1526430634 source:d:\punteros\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526430608 d:\punteros\alumno.h
+
+1527122991 source:d:\alumnopunteros\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527121722 d:\alumnopunteros\alumno.h
+
+1527124246 source:d:\alumnopunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+

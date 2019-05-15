@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1526424454 source:d:\punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527195309 
+
+1526430634 source:d:\punteros\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526430608 d:\punteros\alumno.h
+
+1527200453 source:d:\alumnopunteros\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527121722 d:\alumnopunteros\alumno.h
+
+1527206101 source:d:\alumnopunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+
+1527200453 source:f:\usuarios\alumno\escritorio\clientepunterosclase2\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527121722 f:\usuarios\alumno\escritorio\clientepunterosclase2\alumno.h
+
+1527195309 source:f:\usuarios\alumno\escritorio\clientepunterosclase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+
+1527200453 source:/home/nmiguenz/Descargas/Clases_AUSENTE/JUEVES/clientePunterosclase2/alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527121722 /home/nmiguenz/Descargas/Clases_AUSENTE/JUEVES/clientePunterosclase2/alumno.h
+
+1527712029 source:/home/nmiguenz/Descargas/Clases_AUSENTE/JUEVES/clientePunterosclase2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+
